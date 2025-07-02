@@ -1,2 +1,3 @@
 # github_demo
 This is my repo of apna college class
+Author - Prakhyath SHRI
